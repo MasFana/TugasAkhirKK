@@ -2,6 +2,13 @@
 
 Proyek ini mengimplementasikan algoritma K-Nearest Neighbors (KNN) secara manual untuk mengklasifikasikan kualitas apel berdasarkan berbagai karakteristik fisik. Implementasi dilakukan tanpa menggunakan modul klasifikasi dari scikit-learn.
 
+**Kelompok 1 Kelas A**
+1. **Aldo Rifki Firmansyah** - 232410103025  
+2. **Adrian Fathan Imama** - 232410103047  
+3. **Naufal Rifqi Prasetyo** - 232410103055  
+4. **Koniedo Tri Novendar Ramadhan** - 232410103087  
+5. **Mohammad Faisal Nur Hidayat** - 232410103091  
+
 ## Dataset
 
 https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality?select=apple_quality.csv
