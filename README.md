@@ -4,6 +4,9 @@ Proyek ini mengimplementasikan algoritma K-Nearest Neighbors (KNN) secara manual
 
 ## Dataset
 
+https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality?select=apple_quality.csv
+
+
 Dataset berisi pengukuran karakteristik apel dengan fitur-fitur:
 
 * Size (Ukuran)
@@ -53,10 +56,10 @@ Dataset berisi pengukuran karakteristik apel dengan fitur-fitur:
 ## Evaluasi
 
 Metrik evaluasi yang digunakan:
-* Accuracy: {final_accuracy:.2f}
-* Precision: {precision:.2f}
-* Recall: {recall:.2f}
-* F1-Score: {f1_score:.2f}
+* Accuracy:  0.9137 (91.38%)
+* Precision: 0.9104
+* Recall: 0.9173
+* F1-Score: 0.9139
 
 ## Dependencies
 
@@ -77,8 +80,9 @@ project/
 
 ## Hasil Analisis
 
-* K optimal ditemukan = {best_k}
-* Akurasi terbaik = {final_accuracy:.2f}
+* K optimal ditemukan = 9
+* Akurasi terbaik = 0.9137 (91.38%)
 * Performa per kelas:
-  * Bad (0): {bad_accuracy:.2f}%
-  * Good (1): {good_accuracy:.2f}%
+  * Bad (0): 0.9102 (91.02%)
+  * Good (1): 0.9173 (91.73%)
+
