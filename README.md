@@ -82,9 +82,3 @@ project/
 * Performa per kelas:
   * Bad (0): {bad_accuracy:.2f}%
   * Good (1): {good_accuracy:.2f}%
-
-## Catatan
-
-* Data telah dinormalisasi untuk memastikan kontribusi seimbang dari setiap fitur
-* Inverse distance weighting digunakan untuk memberikan bobot lebih pada tetangga terdekat
-* Outlier dipertahankan untuk menjaga keaslian data
